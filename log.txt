@@ -1,0 +1,6 @@
+S-a introdus o comanda inexistenta, si anume 36
+S-a introdus o comanda inexistenta, si anume 36
+S-a introdus o comanda inexistenta, si anume 36
+S-a introdus optiune gresita: 0
+S-a introdus optiune gresita: 14
+S-a introdus o comanda inexistenta, si anume 4

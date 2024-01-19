@@ -1,0 +1,2 @@
+Cookie 10
+DiabeticCookie 15 0.5
