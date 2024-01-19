@@ -1,1 +1,4 @@
-﻿  Proiect Final POO.vcxproj -> D:\Documente\Universitate\An 2\POO\Proiect Final POO\x64\Debug\Proiect Final POO.exe
+﻿  Source.cpp
+D:\Documente\Universitate\An 2\Cadou_Viki\An 2\POO\Proiect Final POO\Proiect Final POO\Source.cpp(138,39): warning C4244: 'argument': conversion from 'float' to 'DWORD', possible loss of data
+D:\Documente\Universitate\An 2\Cadou_Viki\An 2\POO\Proiect Final POO\Proiect Final POO\Source.cpp(143,40): warning C4244: 'argument': conversion from 'float' to 'DWORD', possible loss of data
+  Proiect Final POO.vcxproj -> D:\Documente\Universitate\An 2\Cadou_Viki\An 2\POO\Proiect Final POO\x64\Debug\Proiect Final POO.exe
